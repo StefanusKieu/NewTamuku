@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:title="HOME"
+            android:background="@drawable/border"/>
+        <item
+            android:title="BUYING"
+            android:background="@drawable/border"/>
+        <item
+            android:title="SELLING"
+            android:background="@drawable/border"/>
+        <item
+            android:title="PROFILE"
+            android:background="@drawable/border"/>
+        <item
+            android:title="HISTORY"
+            android:background="@drawable/border"/>
+        <item
+            android:title="SETTINGS"
+            android:background="@drawable/border"/>
+        <item
+            android:title="HELP"
+            android:background="@drawable/border"/>
+        <item
+            android:title="ABOUT TAMUKU"
+            android:background="@drawable/border"/>
+        <item
+            android:title="RATE US"
+            android:background="@drawable/border"/>
+    </group>
+</menu>
