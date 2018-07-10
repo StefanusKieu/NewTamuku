@@ -26,7 +26,6 @@ public class MarketMenu extends AppCompatActivity {
 
     public void openDrawer(View view){
         mDrawerLayout.openDrawer(Gravity.START);
-        Toast.makeText(this,"Burger Opens Drawer",Toast.LENGTH_SHORT).show();
     }
 
 }
